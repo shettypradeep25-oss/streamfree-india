@@ -21,8 +21,7 @@ can be unreliable.
 1. Go to vercel.com → New Project → "Deploy without Git" / drag-and-drop this
    folder, or run `npx vercel` from inside this folder and follow the prompts.
 2. Once deployed, go to the project's Settings → Domains → add your domain.
-   Vercel shows the exact A/CNAME records to add.
-
+   Vercel shows you the exact A/CNAME records to add.
 
 **Netlify**
 1. Go to app.netlify.com → Sites → drag this folder onto the "Deploy manually"
